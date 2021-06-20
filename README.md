@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishit1606&show_icons=true&theme=dark&locale=en&layout=compact" alt="nishit1606" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishit1606&show_icons=true&theme=radical&locale=en" alt="nishit1606" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishit1606&show_icons=true&theme=gruvbox&locale=en" alt="nishit1606" /></p>
